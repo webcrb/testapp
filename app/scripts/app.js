@@ -5,7 +5,8 @@ angular
     'ngCookies',
     'ngResource',
     'ngSanitize',
-    'ngRoute'
+    'ngRoute',
+    'slick'
   ])
   .config(function ($routeProvider) {
     $routeProvider
